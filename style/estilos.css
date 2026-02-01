@@ -56,7 +56,8 @@ nav{
 	grid-template-columns: 95px 195px 125px; /* tamaño de cada columna está ajustado al texto de cada parte del menú*/
 	gap: 20px; /* espacio entre elementos del grid */
     padding-left: 20px; 
-	background-color: var(--color-corporativo-azul-medio); /* El color de fondo del menú */
+	/*background-color: var(--color-corporativo-azul-medio); /* El color de fondo del menú */
+	background-color: var(--color-corporativo-azul-marino); /* El color de fondo del menú */
 	width: 100%;
 	color: white;
 }
